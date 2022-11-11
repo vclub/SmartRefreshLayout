@@ -7,8 +7,6 @@ android {
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 33
-        versionCode 1
-        versionName SMART_VERSION
 
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
